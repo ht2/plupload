@@ -1,7 +1,7 @@
 {
     "name": "ht2/plupload",
     "version": "2.0.0",
-    "description": "Composer fork of moxiecode/plupload"
+    "description": "Composer fork of moxiecode/plupload",
     "contributors": [{
         "name": "Davit Barbakadze",
         "email": "davit@moxiecode.com"
